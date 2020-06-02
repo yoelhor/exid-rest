@@ -17,6 +17,19 @@ The sample demonstrates how to validate the data return by the external identity
 1. Check the length of the display name
 1. If the sign-up validation passed successfully, return `Allow` response.
 
+## Source code
+
+REST API source code for following platform: 
+
+<table border="0" style="border:none;">
+    <tr style="border: none;">
+        <td style="padding-left:0; border: none;"><a href="tree/master/source-code/csharp" ><img src="https://docs.microsoft.com/azure/app-service/media/index/logo_net.svg" height="48px" width="48px" alt=".Net Core" ><br /><span>.Net Core</span></a></div></td>
+        <td style="padding-left:20px; border: none;"><a href="https://github.com/azure-ad-b2c/rest-api/tree/master/source-code/node-js-express" ><img src="https://docs.microsoft.com/azure/app-service/media/index/logo_nodejs.svg" height="48px" width="48px" alt="Node.js" ><br /><span>Node.js</span></a></div></td>
+        <td style="padding-left:20px; border: none;"><a href="https://github.com/azure-ad-b2c/rest-api/tree/master/source-code/java-spring" ><img src="https://docs.microsoft.com/azure/app-service/media/index/logo_java.svg" height="48px" width="48px" alt="Java" ><br /><span>Java</span></a></div></td>
+        <td style="padding-left:20px; border: none;"><a href="https://github.com/azure-ad-b2c/rest-api/tree/master/source-code/python-flask" ><img src="https://docs.microsoft.com/azure/app-service/media/index/logo_python.svg" height="48px" width="48px" alt="Python (on Linux)" ><br /><span>Python (on Linux)</span></a></div></td>
+    </tr>
+</table>
+
 ### Clone, deploy and run the sample
 TBD
 
