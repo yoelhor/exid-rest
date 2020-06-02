@@ -16,3 +16,12 @@ The sample demonstrates how to validate the data return by the external identity
 1. If the display name claim is existed. If not, return the *ValidationError* error message. So, user can fix the input data.
 1. Check the length of the display name
 1. If the sign-up validation passed successfully, return `Allow` response.
+
+### Clone, deploy and run the sample
+TBD
+
+### Test your REST API service
+TBD
+
+### Bring your own business logic
+
